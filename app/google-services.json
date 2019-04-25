@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061607431313",
+    "firebase_url": "https://demoh-939a7.firebaseio.com",
+    "project_id": "demoh-939a7",
+    "storage_bucket": "demoh-939a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061607431313:android:9cf8b10b6e08adad",
+        "android_client_info": {
+          "package_name": "com.josec.demoh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061607431313-l15fsan659m3c68058js4elm9d2l6pom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josec.demoh",
+            "certificate_hash": "7ac0f05ac7805f339757e3fde9b1f0da58902f27"
+          }
+        },
+        {
+          "client_id": "1061607431313-8knu8ui93m9fq7q0fp4ailqd9s9brj3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMbvBVTHFNwH95rwQLtvepcDJD9n1ARds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061607431313-8knu8ui93m9fq7q0fp4ailqd9s9brj3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
