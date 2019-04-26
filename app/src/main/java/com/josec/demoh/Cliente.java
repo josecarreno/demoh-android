@@ -1,10 +1,13 @@
 package com.josec.demoh;
 
+import android.support.annotation.Keep;
+
+@Keep
 public class Cliente {
-    String nombre;
-    String apellido;
-    String edad;
-    String fechaNacimiento;
+    public String nombre;
+    public String apellido;
+    public String edad;
+    public String fechaNacimiento;
 
     public Cliente() {}
 
